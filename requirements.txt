@@ -3,3 +3,13 @@ numpy
 tqdm
 torch>=2.0
 torchaudio
+fastapi
+uvicorn
+python-multipart
+numpy
+torch>=2.0
+torchaudio
+librosa
+tqdm
+av
+scipy
